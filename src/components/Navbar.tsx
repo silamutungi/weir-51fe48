@@ -1,4 +1,3 @@
-```typescript
 import { useState, useEffect } from 'react'
 import { Link, useNavigate, useLocation } from 'react-router-dom'
 import { Menu, X, LogOut, Settings } from 'lucide-react'
@@ -112,4 +111,3 @@ export default function Navbar() {
     </nav>
   )
 }
-```

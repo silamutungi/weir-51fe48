@@ -1,4 +1,3 @@
-```typescript
 import { useEffect, useState, type FormEvent } from 'react'
 import { Loader2, AlertCircle, CheckCircle } from 'lucide-react'
 import { supabase, isSupabaseConfigured } from '../lib/supabase'
@@ -143,4 +142,3 @@ export default function Settings() {
     </div>
   )
 }
-```

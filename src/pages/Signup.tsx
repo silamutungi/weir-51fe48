@@ -1,4 +1,3 @@
-```typescript
 import { useState, type FormEvent } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { AlertCircle, Loader2, CheckCircle } from 'lucide-react'
@@ -99,4 +98,3 @@ export default function Signup() {
     </div>
   )
 }
-```

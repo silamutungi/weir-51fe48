@@ -1,4 +1,3 @@
-```typescript
 import { forwardRef, type InputHTMLAttributes } from 'react'
 import { cn } from '../../lib/utils'
 
@@ -20,4 +19,3 @@ const Input = forwardRef<HTMLInputElement, InputProps>(({ className, type, ...pr
 Input.displayName = 'Input'
 
 export { Input }
-```

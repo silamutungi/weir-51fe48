@@ -1,4 +1,3 @@
-```typescript
 import { useEffect, useState } from 'react'
 import { Shield, AlertTriangle, Loader2, RotateCcw, Plus, XCircle, DollarSign, CheckCircle } from 'lucide-react'
 
@@ -177,4 +176,3 @@ export default function Dashboard() {
     </div>
   )
 }
-```

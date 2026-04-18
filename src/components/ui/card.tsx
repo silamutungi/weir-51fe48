@@ -1,4 +1,3 @@
-```typescript
 import { type HTMLAttributes, forwardRef } from 'react'
 import { cn } from '../../lib/utils'
 
@@ -28,4 +27,3 @@ const CardContent = forwardRef<HTMLDivElement, HTMLAttributes<HTMLDivElement>>((
 CardContent.displayName = 'CardContent'
 
 export { Card, CardHeader, CardTitle, CardDescription, CardContent }
-```

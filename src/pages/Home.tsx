@@ -1,4 +1,3 @@
-```typescript
 import { useNavigate } from 'react-router-dom'
 import { Shield, Zap, DollarSign, FileText, TrendingUp, AlertTriangle } from 'lucide-react'
 
@@ -85,4 +84,3 @@ export default function Home() {
     </div>
   )
 }
-```
